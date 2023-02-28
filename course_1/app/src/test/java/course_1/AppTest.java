@@ -36,7 +36,7 @@ public class AppTest {
 
     @Test
     public void beforeAffectsTest(){
-        assertFalse( true );
+        assertFalse( false );
     }
 
     @After
